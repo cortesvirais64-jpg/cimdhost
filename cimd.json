@@ -1,4 +1,5 @@
 {
+ "client_id": "https://cortesvirais64-jpg.github.io/cimdhost/cimd.json",
  "client_name": "cofre-drael",
  "redirect_uris": [
   "https://cortesvirais64-jpg.github.io/cimdhost/cimd.json"
@@ -13,5 +14,6 @@
  "code_challenge_methods": [
   "S256"
  ],
- "token_endpoint_auth_method": "none"
+ "token_endpoint_auth_method": "none",
+ "scope": "openid email profile"
 }
